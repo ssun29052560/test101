@@ -1,3 +1,3 @@
 # test101
 
-add Kuu
+add 67
